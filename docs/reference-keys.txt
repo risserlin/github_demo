@@ -5,6 +5,7 @@ intro
 literature
 methods
 math-example
+a-non-math-example-over-here
 applications
 example-one
 example-two
